@@ -1,0 +1,47 @@
+# ---------------------------
+# Eclipse Specific Files
+# ---------------------------
+.classpath
+.project
+.settings/
+
+# ---------------------------
+# Build Output
+# ---------------------------
+/bin/
+/build/
+/target/
+/out/
+
+# ---------------------------
+# Logs and Temp Files
+# ---------------------------
+*.log
+*.tmp
+*.bak
+*.swp
+
+# ---------------------------
+# OS Generated Files
+# ---------------------------
+.DS_Store
+Thumbs.db
+
+# ---------------------------
+# Java Compiled Files
+# ---------------------------
+*.class
+
+# ---------------------------
+# Configuration & Secrets
+# ---------------------------
+# Hibernate or Database config files
+hibernate.cfg.xml
+application.properties
+application.yml
+config.properties
+
+# ---------------------------
+# Environment Files
+# ---------------------------
+.env
